@@ -149,7 +149,7 @@ if __name__ == "__main__":
     parser.add_argument('-o', '--output', type=Path, default='results/significance-results.txt')
     parser.add_argument('-k', '--knot-type', type=str, default='3_1', help='Knot type to analyze')
     parser.add_argument('-p', '--p-noise', type=float, default=0.02, help='Null hypothesis noise probability')
-    parser.add_argument('-e', '--epsilon', type=float, default=0.10, help='Threshold for meaningful population')
+    parser.add_argument('-e', '--epsilon', type=float, default=0.15, help='Threshold for meaningful population')
     parser.add_argument('-a', '--alpha', type=float, default=0.05, help='Significance level')
     args = parser.parse_args()
 
