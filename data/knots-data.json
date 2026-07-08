@@ -1,0 +1,4987 @@
+{
+  "1m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 98,
+        "unknot": 2
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "5_2": 96,
+        "unknot": 4
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "5_2": 88,
+        "unknot": 12
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "5_2": 83,
+        "unknot": 16,
+        "3_1": 1
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "5_2": 72,
+        "unknot": 27,
+        "3_1": 1
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "5_2": 61,
+        "unknot": 37,
+        "3_1": 2
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "5_2": 43,
+        "unknot": 57
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "5_2": 33,
+        "unknot": 67
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 73,
+        "5_2": 21,
+        "3_1": 6
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 87,
+        "5_2": 11,
+        "3_1": 2
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 92,
+        "5_2": 7,
+        "3_1": 1
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 98,
+        "5_2": 2
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 99,
+        "5_2": 1
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 99,
+        "unknown": 1
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    },
+    "100": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 100.0
+    }
+  },
+  "5m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 92,
+        "3_1": 2,
+        "unknot": 6
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "5_2": 84,
+        "unknot": 14,
+        "3_1": 2
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "5_2": 69,
+        "unknot": 29,
+        "3_1": 2
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "5_2": 40,
+        "unknot": 57,
+        "3_1": 3
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "5_2": 22,
+        "unknot": 73,
+        "3_1": 5
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "unknot": 91,
+        "5_2": 5,
+        "3_1": 4
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 96,
+        "5_2": 2,
+        "3_1": 2
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 98,
+        "3_1": 2
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 97,
+        "3_1": 3
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    },
+    "100": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 100.0
+    }
+  },
+  "10m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 99,
+        "unknot": 1
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 94,
+        "unknot": 6
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "5_2": 75,
+        "unknot": 23,
+        "3_1": 2
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "5_2": 54,
+        "unknot": 44,
+        "3_1": 2
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "unknot": 70,
+        "3_1": 6,
+        "5_2": 24
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "3_1": 7,
+        "unknot": 91,
+        "5_2": 2
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "3_1": 2,
+        "unknot": 97,
+        "5_2": 1
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    },
+    "100": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 100.0
+    }
+  },
+  "15m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 99,
+        "unknot": 1
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 97,
+        "unknot": 3
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 97,
+        "unknot": 3
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 86,
+        "unknot": 14
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "unknot": 29,
+        "5_2": 66,
+        "3_1": 5
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "unknot": 59,
+        "5_2": 36,
+        "3_1": 5
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "unknot": 85,
+        "3_1": 6,
+        "5_2": 9
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "unknot": 90,
+        "3_1": 8,
+        "5_2": 2
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "unknot": 97,
+        "3_1": 2,
+        "5_2": 1
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    }
+  },
+  "20m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 97,
+        "unknot": 3
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 94,
+        "unknot": 5,
+        "3_1": 1
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "5_2": 84,
+        "unknot": 16
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "5_2": 58,
+        "unknot": 38,
+        "3_1": 4
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "5_2": 50,
+        "unknot": 43,
+        "3_1": 7
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "5_2": 43,
+        "unknot": 53,
+        "3_1": 4
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "5_2": 40,
+        "unknot": 56,
+        "3_1": 4
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 72,
+        "5_2": 26,
+        "3_1": 2
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 82,
+        "5_2": 16,
+        "3_1": 2
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 90,
+        "5_2": 9,
+        "3_1": 1
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 93,
+        "5_2": 6,
+        "3_1": 1
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 96,
+        "5_2": 4
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 99,
+        "5_2": 1
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 98,
+        "3_1": 1,
+        "5_2": 1
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    },
+    "100": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 100.0
+    }
+  },
+  "25m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 99,
+        "unknot": 1
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 99,
+        "unknot": 1
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 90,
+        "unknot": 8,
+        "3_1": 2
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "5_2": 76,
+        "unknot": 21,
+        "3_1": 3
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "5_2": 45,
+        "unknot": 50,
+        "3_1": 5
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "unknot": 71,
+        "5_2": 18,
+        "3_1": 11
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "unknot": 90,
+        "5_2": 3,
+        "3_1": 7
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "unknot": 96,
+        "3_1": 3,
+        "5_2": 1
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "unknot": 98,
+        "3_1": 2
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    }
+  },
+  "30m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 98,
+        "3_1": 1,
+        "unknot": 1
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 91,
+        "unknot": 7,
+        "3_1": 2
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "unknot": 20,
+        "5_2": 79,
+        "3_1": 1
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "unknot": 50,
+        "5_2": 46,
+        "3_1": 4
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "unknot": 74,
+        "5_2": 20,
+        "3_1": 6
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "unknot": 87,
+        "5_2": 6,
+        "3_1": 7
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "unknot": 97,
+        "3_1": 3
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    },
+    "100": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 100.0
+    }
+  },
+  "35m": {
+    "0": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.99999999999998e-07
+    },
+    "1": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.2022599999999984e-06
+    },
+    "2": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.4454399999999987e-06
+    },
+    "3": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.7378000000000016e-06
+    },
+    "4": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.0893000000000013e-06
+    },
+    "5": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.5118900000000044e-06
+    },
+    "6": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.0199499999999955e-06
+    },
+    "7": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.630779999999995e-06
+    },
+    "8": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.36516e-06
+    },
+    "9": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.248070000000002e-06
+    },
+    "10": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.309570000000013e-06
+    },
+    "11": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 7.5857799999999845e-06
+    },
+    "12": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.120110000000015e-06
+    },
+    "13": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.096479999999999e-05
+    },
+    "14": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.3182600000000018e-05
+    },
+    "15": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.5848900000000024e-05
+    },
+    "16": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 1.9054599999999948e-05
+    },
+    "17": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.290870000000006e-05
+    },
+    "18": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 2.7542299999999982e-05
+    },
+    "19": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.3113100000000007e-05
+    },
+    "20": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 3.981070000000007e-05
+    },
+    "21": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 4.7863000000000074e-05
+    },
+    "22": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 5.754399999999993e-05
+    },
+    "23": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 6.918310000000003e-05
+    },
+    "24": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 8.317639999999998e-05
+    },
+    "25": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 9.999999999999995e-05
+    },
+    "26": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00012022599999999983
+    },
+    "27": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00014454399999999995
+    },
+    "28": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0001737799999999999
+    },
+    "29": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00020892999999999978
+    },
+    "30": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00025118899999999975
+    },
+    "31": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00030199499999999956
+    },
+    "32": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00036307799999999997
+    },
+    "33": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0004365159999999998
+    },
+    "34": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0005248070000000005
+    },
+    "35": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.000630957000000001
+    },
+    "36": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0007585780000000003
+    },
+    "37": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0009120110000000007
+    },
+    "38": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0010964799999999978
+    },
+    "39": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0013182600000000006
+    },
+    "40": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0015848900000000026
+    },
+    "41": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0019054599999999984
+    },
+    "42": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00229087
+    },
+    "43": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.00275423
+    },
+    "44": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.0033113100000000065
+    },
+    "45": {
+      "knots": {
+        "5_2": 100
+      },
+      "avg_temperature": 0.003981069999999993
+    },
+    "46": {
+      "knots": {
+        "5_2": 99,
+        "3_1": 1
+      },
+      "avg_temperature": 0.004786300000000008
+    },
+    "47": {
+      "knots": {
+        "5_2": 97,
+        "3_1": 2,
+        "unknot": 1
+      },
+      "avg_temperature": 0.0057544000000000015
+    },
+    "48": {
+      "knots": {
+        "5_2": 95,
+        "3_1": 2,
+        "unknot": 3
+      },
+      "avg_temperature": 0.006918309999999991
+    },
+    "49": {
+      "knots": {
+        "5_2": 95,
+        "unknot": 5
+      },
+      "avg_temperature": 0.008317640000000008
+    },
+    "50": {
+      "knots": {
+        "unknot": 26,
+        "5_2": 73,
+        "3_1": 1
+      },
+      "avg_temperature": 0.010000000000000007
+    },
+    "51": {
+      "knots": {
+        "unknot": 55,
+        "5_2": 44,
+        "3_1": 1
+      },
+      "avg_temperature": 0.012022600000000015
+    },
+    "52": {
+      "knots": {
+        "unknot": 79,
+        "5_2": 13,
+        "3_1": 8
+      },
+      "avg_temperature": 0.014454399999999984
+    },
+    "53": {
+      "knots": {
+        "unknot": 93,
+        "3_1": 4,
+        "5_2": 3
+      },
+      "avg_temperature": 0.017377999999999956
+    },
+    "54": {
+      "knots": {
+        "unknot": 92,
+        "3_1": 4,
+        "5_2": 4
+      },
+      "avg_temperature": 0.020893000000000037
+    },
+    "55": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.025118899999999996
+    },
+    "56": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.030199500000000035
+    },
+    "57": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.03630779999999992
+    },
+    "58": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.04365159999999997
+    },
+    "59": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.05248070000000001
+    },
+    "60": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.06309569999999992
+    },
+    "61": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.07585779999999986
+    },
+    "62": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.09120109999999998
+    },
+    "63": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.10964799999999998
+    },
+    "64": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.1318260000000002
+    },
+    "65": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.15848899999999977
+    },
+    "66": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.190546
+    },
+    "67": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.22908699999999985
+    },
+    "68": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.275423
+    },
+    "69": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3311309999999994
+    },
+    "70": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.3981070000000003
+    },
+    "71": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.4786300000000006
+    },
+    "72": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.5754400000000003
+    },
+    "73": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.6918309999999999
+    },
+    "74": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 0.8317640000000014
+    },
+    "75": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.0
+    },
+    "76": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.2022599999999983
+    },
+    "77": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.4454400000000007
+    },
+    "78": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 1.7377999999999956
+    },
+    "79": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.089300000000002
+    },
+    "80": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 2.5118899999999957
+    },
+    "81": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.019949999999996
+    },
+    "82": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 3.63078
+    },
+    "83": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 4.365160000000002
+    },
+    "84": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 5.248069999999995
+    },
+    "85": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 6.309570000000005
+    },
+    "86": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 7.58578
+    },
+    "87": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 9.120109999999984
+    },
+    "88": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 10.96479999999999
+    },
+    "89": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 13.182600000000011
+    },
+    "90": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 15.848899999999976
+    },
+    "91": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 19.054599999999983
+    },
+    "92": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 22.908699999999968
+    },
+    "93": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 27.542300000000036
+    },
+    "94": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 33.113100000000024
+    },
+    "95": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 39.8107
+    },
+    "96": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 47.862999999999985
+    },
+    "97": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 57.54399999999993
+    },
+    "98": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 69.18310000000014
+    },
+    "99": {
+      "knots": {
+        "unknot": 100
+      },
+      "avg_temperature": 83.1764000000001
+    }
+  }
+}
