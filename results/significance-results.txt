@@ -1,0 +1,9 @@
+Mode        Points    Max frac    Max upper CI  Signif    Verdict     
+1M          101       0.0600      0.1248        0         noise       
+5M          101       0.0500      0.1118        0         noise       
+10M         101       0.0700      0.1375        0         noise       
+15M         100       0.0800      0.1500        0         noise       
+20M         101       0.0700      0.1375        0         noise       
+25M         100       0.1100      0.1863        1         possible    
+30M         101       0.0700      0.1375        0         noise       
+35M         100       0.0800      0.1500        0         noise       
